@@ -1,0 +1,9 @@
+C:\Users\roman\Documents\Visual Studio 2015\Projects\EyeKeeper\EyeKeeper\bin\Debug\EyeKeeper.exe.config
+C:\Users\roman\Documents\Visual Studio 2015\Projects\EyeKeeper\EyeKeeper\bin\Debug\EyeKeeper.exe
+C:\Users\roman\Documents\Visual Studio 2015\Projects\EyeKeeper\EyeKeeper\bin\Debug\EyeKeeper.pdb
+C:\Users\roman\Documents\Visual Studio 2015\Projects\EyeKeeper\EyeKeeper\obj\Debug\EyeKeeper.csprojResolveAssemblyReference.cache
+C:\Users\roman\Documents\Visual Studio 2015\Projects\EyeKeeper\EyeKeeper\obj\Debug\EyeKeeper.Form1.resources
+C:\Users\roman\Documents\Visual Studio 2015\Projects\EyeKeeper\EyeKeeper\obj\Debug\EyeKeeper.Properties.Resources.resources
+C:\Users\roman\Documents\Visual Studio 2015\Projects\EyeKeeper\EyeKeeper\obj\Debug\EyeKeeper.csproj.GenerateResource.Cache
+C:\Users\roman\Documents\Visual Studio 2015\Projects\EyeKeeper\EyeKeeper\obj\Debug\EyeKeeper.exe
+C:\Users\roman\Documents\Visual Studio 2015\Projects\EyeKeeper\EyeKeeper\obj\Debug\EyeKeeper.pdb
